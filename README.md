@@ -34,7 +34,6 @@ GIF created with ...
 
 ## Notes
 
-Describe any challenges encountered while building the app.
 Early on, dynamically creating and appending elements like game cards using JavaScript was a challenge. Learning how to correctly apply .reduce() and .filter() to process the data was initially confusing, especially when tracking totals or counting specific conditions (e.g., unfunded games). When using console.log() to debug, it was sometimes unclear why values weren’t appearing — this turned out to be due to variables being scoped inside functions or missed function calls.
 
 
